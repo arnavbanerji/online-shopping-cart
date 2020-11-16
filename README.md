@@ -1,3 +1,10 @@
+install bootstrap package:
+
+> npm i bootstrap@4.1.1
+
+in index.js > add the below line:
+import 'bootstrap/dist/css/bootstrap.css';
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
